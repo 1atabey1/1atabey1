@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1atabey1
 - 👀 I’m interested in general python stuff, embedded systems and automotive technologies
 - 🌱 I’m currently working on battery management systems for the automotive industry
-- 💞️ I’m looking to collaborate on cool stuff
+- 💞️ I’m always open to collaborate on cool stuff
 - 📫 How to reach me: https://twitter.com/1atabey1
 
 <!---
